@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/driver_frontend/static/css/main.073c9b0a.css",
-    "main.js": "/driver_frontend/static/js/main.152a2a0f.js",
-    "static/js/787.7172e46b.chunk.js": "/driver_frontend/static/js/787.7172e46b.chunk.js",
-    "static/media/logo.svg": "/driver_frontend/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/driver_frontend/index.html",
-    "main.073c9b0a.css.map": "/driver_frontend/static/css/main.073c9b0a.css.map",
-    "main.152a2a0f.js.map": "/driver_frontend/static/js/main.152a2a0f.js.map",
-    "787.7172e46b.chunk.js.map": "/driver_frontend/static/js/787.7172e46b.chunk.js.map"
+    "main.css": "/git%20/static/css/main.073c9b0a.css",
+    "main.js": "/git%20/static/js/main.651aa67c.js",
+    "static/js/787.7172e46b.chunk.js": "/git%20/static/js/787.7172e46b.chunk.js",
+    "static/media/logo.svg": "/git%20/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/git%20/index.html",
+    "main.073c9b0a.css.map": "/git%20/static/css/main.073c9b0a.css.map",
+    "main.651aa67c.js.map": "/git%20/static/js/main.651aa67c.js.map",
+    "787.7172e46b.chunk.js.map": "/git%20/static/js/787.7172e46b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.152a2a0f.js"
+    "static/js/main.651aa67c.js"
   ]
 }
